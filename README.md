@@ -10,7 +10,7 @@ _Obviamente, por motivos de segurança, não estou disponibilizando o arquivo co
 
 As operações feitas no programa **spreadsheet.py** são as seguintes:
 
-##Extração de todas as linhas como uma lista de dicionários
+## Extração de todas as linhas como uma lista de dicionários
 
 Utilizando a função _get_all_records()_.
 
